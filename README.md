@@ -1,4 +1,4 @@
 # Баг-репорт
+Одной из самых важных частей в организации процесса разработки является баг-трекер, то есть то место, где мы отслеживаем вещи, которые работают неправильно, чтобы своевременно их сортировать и исправлять. Сообщения об ошибках создает преимущественно администрация, но регистрация открыта для всех.
+### [Сообщить об ошибке](https://github.com/danganronpa-online/public-gmod/issues/new?assignees=&labels=status%3Atriage%2Ctype%3Abug&template=bug-report.yml)
 
-Привет!
-Тыкни [сюда](https://github.com/danganronpa-online/public-gmod/issues/new?assignees=&labels=status%3Atriage%2Ctype%3Abug&template=bug-report.yml), если хочешь сообщить о баге
